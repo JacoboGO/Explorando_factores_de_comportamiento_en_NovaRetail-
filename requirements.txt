@@ -1,0 +1,11 @@
+# Libraries used in Project-NovaRetail.ipynb
+# Verified against PyPI (pandas 3.0.3 is the latest non-yanked release as of the update)
+
+pandas==3.0.3
+numpy==2.4.4
+seaborn==0.13.2
+matplotlib==3.10.9
+scipy==1.17.1
+
+# Note: for exact reproducibility, confirm these versions locally with:
+#   pip freeze > requirements.txt
